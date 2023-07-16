@@ -1,2 +1,3 @@
 # Resturant_Management_System
-using html,css, PHP,js
+using HTML, CSS, PHP, js
+live preview https://isratcse.github.io/Resturant_Management_System/
